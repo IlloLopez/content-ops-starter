@@ -49,7 +49,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Servidores Que trabajan con Nosotros
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
