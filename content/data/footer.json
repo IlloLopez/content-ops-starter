@@ -1,9 +1,4 @@
 {
-    "logo": {
-        "url": "/images/image.png",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
     "text": "",
     "socialLinks": [],
     "legalLinks": [
