@@ -6,13 +6,13 @@ Gestiona tu experiencia, muestra tus proyectos y forma parte de IlloCrew.
 
 ## Tabla de Contenidos
 
-- [Deploying to Netlify](#deploying-to-netlify)
-- [Develop with Netlify Visual Editor Locally](#develop-with-netlify-visual-editor-locally)
-- [Building for production](#building-for-production)
-- [Setting Up Algolia Search](#setting-up-algolia-search)
-- [Next Steps](#next-steps)
-- [Support](#support)
+- Presentación
+- Cómo unirte a IlloCrew
+- ¿Qué es IlloTeam?
+- Portafolio y servicios
+- Únete a nuestro Discord
 
+Soporte
 ## Presentación
 
 IlloTeam Crew es una comunidad de gamers y desarrolladores apasionados por Minecraft y la gestión de servidores personalizados.
