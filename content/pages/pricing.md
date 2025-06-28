@@ -126,7 +126,7 @@ sections:
           según lo que pidas.
         features:
           - Desarrollo y configuración de servidores
-          - Feature two
+          - Organización de eventos y torneos PvP
           - Feature three
           - Feature four
           - Feature five
