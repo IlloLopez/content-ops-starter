@@ -24,7 +24,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Equipo
+      text: Equipo IlloTeam Clan
       color: text-dark
       styles:
         self:
