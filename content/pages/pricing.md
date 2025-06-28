@@ -108,7 +108,7 @@ sections:
     subtitle: Contratanos!
     plans:
       - type: PricingPlan
-        title: Enterprise
+        title: ''
         price: Custom
         details: per month
         description: >-
