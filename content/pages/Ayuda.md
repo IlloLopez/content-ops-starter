@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Pricing
+title: Ayuda
 sections:
   - type: PricingSection
     title:
