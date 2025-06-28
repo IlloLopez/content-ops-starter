@@ -21,13 +21,6 @@ sections:
         textAlign: center
     type: PricingSection
   - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Equipo IlloTeam Clan
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     people:
       - content/data/person1.json
       - content/data/person2.json
