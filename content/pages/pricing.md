@@ -98,13 +98,6 @@ sections:
       subtitle:
         textAlign: center
   - type: PricingSection
-    title:
-      type: TitleBlock
-      text: Precios
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: Contratanos!
     plans:
       - type: PricingPlan
