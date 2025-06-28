@@ -137,7 +137,7 @@ sections:
         actions:
           - type: Button
             label: Contact
-            url: /
+            url: 'https://discord.com/users/1189564208912797777'
             icon: arrowRight
             iconPosition: right
             style: secondary
