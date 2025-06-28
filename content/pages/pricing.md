@@ -127,7 +127,7 @@ sections:
         features:
           - Desarrollo y configuración de servidores
           - Organización de eventos y torneos PvP
-          - Feature three
+          - Soporte técnico y asesoría
           - Feature four
           - Feature five
         image:
