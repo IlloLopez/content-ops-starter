@@ -111,9 +111,17 @@ sections:
         title: ''
         price: Custom
         details: Por mes
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >+
+          En IlloTeam Clan ofrecemos servicios personalizados para servidores y
+          jugadores de Minecraft.
+
+          Cuéntanos qué necesitas: desde desarrollo de plugins, administración,
+          eventos PvP, hasta soporte técnico y gestión de comunidad.
+
+          El precio se adapta según el tipo de servicio y los requisitos de tu
+          proyecto: cada caso es diferente y te daremos un presupuesto a medida
+          según lo que pidas.
+
         features:
           - Feature one
           - Feature two
