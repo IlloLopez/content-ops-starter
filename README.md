@@ -12,7 +12,6 @@ Gestiona tu experiencia, muestra tus proyectos y forma parte de IlloCrew.
 - Portafolio y servicios
 - Únete a nuestro Discord
 
-Soporte
 ## Presentación
 
 IlloTeam Crew es una comunidad de gamers y desarrolladores apasionados por Minecraft y la gestión de servidores personalizados.
