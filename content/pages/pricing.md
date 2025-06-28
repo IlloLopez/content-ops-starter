@@ -25,7 +25,7 @@ sections:
     title:
       type: TitleBlock
       text: Equipo IlloTeam Clan
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
