@@ -10,9 +10,8 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      La comunidad donde el trabajo en equipo, la emoción del PvP y el apoyo de
-      un staff dedicado se unen para llevar tu experiencia en Minecraft al
-      siguiente nivel con IlloTeam Clan.
+      La comunidad donde el trabajo en equipo y la diversión se unen para llevar
+      tu comunidad de Minecraft al siguiente nivel
     plans: []
     colors: bg-dark-fg-light
     styles:
