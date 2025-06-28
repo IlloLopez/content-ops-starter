@@ -9,7 +9,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: >-
+      La comunidad donde el trabajo en equipo, la emoción del PvP y el apoyo de
+      un staff dedicado se unen para llevar tu experiencia en Minecraft al
+      siguiente nivel con IlloTeam Clan.
     plans: []
     colors: bg-light-fg-dark
     styles:
