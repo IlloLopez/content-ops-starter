@@ -129,7 +129,7 @@ sections:
           - Organización de eventos y torneos PvP
           - Soporte técnico y asesoría
           - Gestión y formación de staff
-          - Feature five
+          - Creación de sistemas personalizados
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
