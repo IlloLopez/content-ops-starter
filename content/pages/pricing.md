@@ -125,7 +125,7 @@ sections:
           proyecto: cada caso es diferente y te daremos un presupuesto a medida
           según lo que pidas.
         features:
-          - Feature one
+          - Desarrollo y configuración de servidores
           - Feature two
           - Feature three
           - Feature four
