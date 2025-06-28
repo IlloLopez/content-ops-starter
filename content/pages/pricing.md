@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: >-
       La comunidad donde el trabajo en equipo y la diversión se unen para llevar
-      tu comunidad de Minecraft al siguiente nivel
+      tu servidor de Minecraft al siguiente nivel
     plans: []
     colors: bg-dark-fg-light
     styles:
