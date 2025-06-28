@@ -128,7 +128,7 @@ sections:
           - Desarrollo y configuración de servidores
           - Organización de eventos y torneos PvP
           - Soporte técnico y asesoría
-          - Feature four
+          - Gestión y formación de staffr
           - Feature five
         image:
           type: ImageBlock
