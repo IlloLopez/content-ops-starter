@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: IlloTeam Clan
 slug: pricing
 sections:
   - title:
