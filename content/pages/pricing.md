@@ -14,7 +14,7 @@ sections:
       un staff dedicado se unen para llevar tu experiencia en Minecraft al
       siguiente nivel con IlloTeam Clan.
     plans: []
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
