@@ -11,12 +11,6 @@
             "url": "https://github.com",
             "icon": "github",
             "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com",
-            "icon": "twitter",
-            "type": "Social"
         }
     ],
     "legalLinks": [
