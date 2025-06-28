@@ -1,12 +1,10 @@
-# Content Ops Starter
+# IlloTeam Crew - Web Oficial
 
-![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
+¡Bienvenido a la página oficial de IlloTeam Crew!
+Descubre nuestro servidor, portafolio, servicios y únete a la comunidad Minecraft más exclusiva.
+Gestiona tu experiencia, muestra tus proyectos y forma parte de IlloCrew.
 
-Netlify starter that's made for customization with a flexible content model, component library, [visual editing](https://docs.netlify.com/visual-editor/overview/) and [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
-
-**⚡ View demo:** [https://content-ops-starter.netlify.app/](https://content-ops-starter.netlify.app/)
-
-## Table of Contents
+## Tabla de Contenidos
 
 - [Deploying to Netlify](#deploying-to-netlify)
 - [Develop with Netlify Visual Editor Locally](#develop-with-netlify-visual-editor-locally)
@@ -15,60 +13,27 @@ Netlify starter that's made for customization with a flexible content model, com
 - [Next Steps](#next-steps)
 - [Support](#support)
 
-## Deploying to Netlify
+## Presentación
 
-If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
+IlloTeam Crew es una comunidad de gamers y desarrolladores apasionados por Minecraft y la gestión de servidores personalizados.
+Ofrecemos un entorno profesional, seguro y creativo para que puedas disfrutar, aprender y crecer junto a otros miembros de la Crew.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/content-ops-starter)
+## Cómo unirte a IlloCrew
 
-## Develop with Netlify Visual Editor Locally
-
-The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
-
-Run the Next.js development server:
+Únete a nuestro Discord
+Haz clic en el botón de unirme en la pagina web para formar parte de la comunidad IlloCrew y no perderte ningún evento ni novedad.
 
 ```txt
-cd content-ops-starter
-npm run dev
+Te esperamos en nuestra comunidad!!
 ```
 
-Install the [Netlify Visual Editor CLI](https://www.npmjs.com/package/@stackbit/cli). Then open a new terminal window in the same project directory and run the Netlify visual editor dev server:
+## Soporte
+
+¿Tienes dudas?
+Contacta con nosotros a través del formulario web o en nuestro Discord.
 
 ```txt
-npm install -g @stackbit/cli
-stackbit dev
+Tenemos atencion al cliente 24/7 con una repuesta maxima de 5h 
 ```
 
-This outputs your own Netlify visual editor URL. Open this, register, or sign in, and you will be directed to Netlify's visual editor for your new project.
-
-![Next.js Dev + Visual Editor Dev](https://assets.stackbit.com/docs/next-dev-stackbit-dev.png)
-
-## Building for production
-
-To build a static site for production, run the following command
-
-```shell
-npm run build
-```
-
-## Setting Up Algolia Search
-
-This starter includes Algolia search integration. To set it up:
-
-1. Create an [Algolia](https://www.algolia.com/) account
-2. Create a new application and index
-3. Set the following environment variables:
-   - `NEXT_PUBLIC_ALGOLIA_APP_ID` - Your Algolia application ID
-   - `NEXT_PUBLIC_ALGOLIA_SEARCH_API_KEY` - Your Algolia search-only API key
-   - `NEXT_PUBLIC_ALGOLIA_INDEX_NAME` - Your index name
-
-## Next Steps
-
-Here are a few suggestions on what to do next if you're new to Netlify visual editor:
-
-- Learn [Netlify visual editor overview](https://docs.netlify.com/visual-editor/visual-editing/)
-- Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
-
-## Support
-
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+## ¡Bienvenido a IlloTeam Crew, donde la comunidad y la creatividad no tienen límites!
